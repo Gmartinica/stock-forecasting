@@ -32,5 +32,5 @@ In this project, I used VADER for sentiment analysis and St-Louis Federal Reserv
 - A lookback of 80 sequences provided the best results.
 - Training on multiple companies resulted in better generalization.
 ## Conclusions
-
+- Stock market is hard to predict. RNN models do a good job but I would not risk my money based on this specific model predicts
 - GRU models were easier to train and performed comparably to LSTM models. Extra features like news sentiment did not significantly improve the model's performance.
